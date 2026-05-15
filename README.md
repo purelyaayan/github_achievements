@@ -1,2 +1,1 @@
-# github_achievements  
- 
+## Just a burner repository to get achievements
